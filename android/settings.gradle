@@ -1,0 +1,3 @@
+rootProject.name = 'ad340_react_app'
+
+include ':app'
